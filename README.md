@@ -1,3 +1,5 @@
+**Important**: This repository is unmaintained. Please fork and update dependencies to safe versions before use. 
+
 # Airgapped wallet
 
 ## Enchanted vault
